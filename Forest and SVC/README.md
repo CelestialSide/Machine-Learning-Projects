@@ -1,4 +1,4 @@
-# Star Classification : Random 
+# Star Classification : Random Forest Classification Versus Support Vector Classification
 
 This project shows the comparison in different Classification Algorithms, in this project we are directly 
 comparing Forest Classification and Support Vector Classification.
