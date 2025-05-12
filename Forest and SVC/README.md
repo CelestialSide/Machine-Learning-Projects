@@ -31,9 +31,6 @@ Dataset was split into 70% train and 30% test
 - Label :
   - `TargetClass`
 
-
-# Random Forest Classifier
-
 - Parameters :
   - Support Vector Classification
     - `C` : 8
