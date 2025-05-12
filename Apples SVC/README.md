@@ -13,6 +13,7 @@ This project uses a Radial Support Vector Classification function in order to cl
 - `Apples!.py` : Cleans and Normalizes Dataset and then evaluates using SVC.
 - `Grid Search.py` : Finds optimal `C` and `Gamma` variables for SVC through use of Grid Search.
 - `apple_quality.csv` : Full Dataset from Kaggle.
+- `apple_confusion.png` : Picture of the Confusion Matrix
 - `README.md` : Your reading it right now!
 
 ## Model Overview
